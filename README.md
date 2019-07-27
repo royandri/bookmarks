@@ -26,7 +26,7 @@ Site | Description | Tags
 | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) | Inspect React component hierarchies when opening React sites | [#devtools](#devtools), [#react](#react) | 
 
 ### Design
-An art lover? Aesthetics enthusiast? 
+An art lover? Aesthetics enthusiast? Looking for a platform to showcase your works? 
 
 Site | Description | Tags
 |---|---|---|
