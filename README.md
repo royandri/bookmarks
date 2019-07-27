@@ -1,5 +1,5 @@
-# Fun Sites / Tools
-A collection of fun sites / tools I found through out my journey surfing the web so people can enjoy it too.
+# Fun Apps / Sites / Tools
+A collection of fun apps / sites / tools I found through out my journey surfing the web so people can enjoy it too.
 (Well, most of it are actually my personal bookmarks throughout the years 😂)
 Hope you all find it useful.
 ___
