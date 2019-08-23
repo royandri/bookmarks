@@ -10,6 +10,7 @@ ___
 
 ### Productivity
 Can't stay silent doing nothing? A lot of things / managements to do?
+
 Site | Description 
 |---|---|
 | [Evernote](https://evernote.com/) | Straight-forward note taking app |
@@ -20,6 +21,7 @@ Site | Description
 
 ### Dev
 Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
+
 Site / App | Description 
 |---|---|
 | [Wappalyzer](https://www.wappalyzer.com/)| Identify technology used on websites. |
@@ -32,6 +34,7 @@ Site / App | Description
 
 ### Finance
 Care about your finance?
+
 Site / App | Description 
 |---|---|
 | [Blockfolio](https://blockfolio.com) | Cryptocurrency and money portfolio tracker | 
@@ -40,6 +43,7 @@ Site / App | Description
 
 ### Design
 An art lover? Aesthetics enthusiast? Looking for a platform to showcase your works? 
+
 Site / App | Description 
 |---|---|
 | [Behance](http://be.net/) | Design showcase platform by Adobe |
@@ -51,6 +55,7 @@ Site / App | Description
 
 
 ### Entertainment
+
 Site / App | Description 
 |---|---|
 | [SpotifyStatistics](https://spotifystatistics.com)| Gives you insights into how you listen to music |
