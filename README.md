@@ -60,3 +60,5 @@ Site / App | Description
 |---|---|
 | [SpotifyStatistics](https://spotifystatistics.com)| Gives you insights into how you listen to music |
 | [Trakt](https://trakt.tv) | Track your previous watchings (movies, TV series), discover other |
+| [Krunker](https://krunker.io) | Online FPS game from your browser |
+| [ShellShock](https://shellshock.io) | another online FPS game from your browser |
