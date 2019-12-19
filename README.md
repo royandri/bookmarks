@@ -24,6 +24,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 Site / App | Description 
 |---|---|
 | [Wappalyzer](https://www.wappalyzer.com/)| Identify technology used on websites. |
+| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) | View JSON in a more humane way using Chrome |
 | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) | Inspect React component hierarchies when opening React sites |
 | [StackBit](https://stackbit.com/) | Build JAMStack sites just under minutes |
 | [Bulma](https://bulma.io) | Great CSS Framework alternative to Bootstrap |
