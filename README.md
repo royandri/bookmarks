@@ -54,7 +54,7 @@ Site / App | Description
 | [Unfold](https://unfoldstori.es/) | Great tool for making simple yet beautiful visual stories |
 | [Canva](https://canva.com) | Looking for tools which can do photo edit, graphic design content? This one can run on web and mobile |
 | [Over](https://www.madewithover.com/) | Basically have the same abilities with Canva but this one is my favorite, except this one only runs on mobile |
-
+| [LunaPic](https://www10.lunapic.com/editor/) | Another Photoshop alternative that runs on browser, but I mostly use this as the tool to make transparent image |
 
 ### Entertainment
 
