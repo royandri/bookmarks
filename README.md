@@ -62,6 +62,7 @@ Site / App | Description
 |---|---|
 | [SpotifyStatistics](https://spotifystatistics.com)| Gives you insights into how you listen to music |
 | [Trakt](https://trakt.tv) | Track your previous watchings (movies, TV series), discover other |
+| [Kitsu](https://kitsu.io) | Track your manga and anime reads |
 | [Krunker](https://krunker.io) | Online FPS game from your browser |
 | [ShellShock](https://shellshock.io) | another online FPS game from your browser |
 
