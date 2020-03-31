@@ -83,6 +83,7 @@ Site / App | Description
 |---|---|
 | [HandBrake](https://handbrake.fr/) | open source video transcoder / converter |
 | [OBS Studio](https://obsproject.com) | Free broadcasting software for live streaming, screen recording |
+| [AIVA](https://aiva.ai) | Compose music with A.I. 🤯 |
 
 ### Entertainment
 
