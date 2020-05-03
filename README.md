@@ -1,7 +1,7 @@
 # Fun Apps / Sites / Tools
 Hope you all find it useful. 
 ___
-
+### Categories
 - [Productivity](#productivity)
 - [Dev](#dev)
 - [Finance](#finance)
@@ -23,6 +23,8 @@ Site | Description
 | [Mega](https://mega.nz) | Looking for Google Drive alternative? This one has a secure encryption |
 | [Coda](https://coda.io) | Docs for team. I can simply said it's like Notion, but in more linear way. Great for managements. |
 
+[⬆️ Back to Categories](#categories)
+
 ### Dev
 Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 
@@ -42,6 +44,8 @@ Site / App | Description
 | [Expo](https://expo.io) | App Building Toolchain, based on React Native |
 | Public API Lists | Looking for public API for learning / fun building? <br> - [public-apis](https://github.com/public-apis/public-apis) <br> - [another one](https://github.com/n0shake/Public-APIs) | 
 
+[⬆️ Back to Categories](#categories)
+
 ### Finance
 Care about finance world?
 
@@ -51,6 +55,8 @@ Site / App | Description
 | [Blockfolio](https://blockfolio.com) | Cryptocurrency and money portfolio tracker | 
 | [TransferWise](https://transferwise.com) | Best alternative to PayPal, with lower fees |
 | [CoinMarketCap](https://coinmarketcap.org) <br> [WalletInvestor](https://walletinvestor.com) | CryptoCurrency and other finance products market indicators. | 
+
+[⬆️ Back to Categories](#categories)
 
 ### Design
 An art lover? Aesthetics enthusiast? Looking for a platform to showcase your works? 
@@ -71,6 +77,8 @@ Site / App | Description
 | [Freepik](https://freepik.com) | Need some graphic illustrations? |
 | [FlatIcon](https://flaticon.com) | Beautiful flat icons |
 
+[⬆️ Back to Categories](#categories)
+
 ### Business
 Site / App | Description
 |---|---|
@@ -78,12 +86,16 @@ Site / App | Description
 | [Slack](https://slack.com) | Collaborative group instant messaging |
 | [Zoom](https://zoom.us) | Video conferencing |
 
+[⬆️ Back to Categories](#categories)
+
 ### Multimedia
 Site / App | Description
 |---|---|
 | [HandBrake](https://handbrake.fr/) | open source video transcoder / converter |
 | [OBS Studio](https://obsproject.com) | Free broadcasting software for live streaming, screen recording |
 | [AIVA](https://aiva.ai) | Compose music with A.I. 🤯 |
+
+[⬆️ Back to Categories](#categories)
 
 ### Entertainment
 
@@ -95,6 +107,8 @@ Site / App | Description
 | [Krunker](https://krunker.io) | Online FPS game from your browser |
 | [ShellShock](https://shellshock.io) | another online FPS game from your browser |
 
+[⬆️ Back to Categories](#categories)
+
 ### Blockchain
 
 Site / App | Description
@@ -105,3 +119,5 @@ Site / App | Description
 | [CryptoKitties](https://cryptokitties.co) | Your virtual pet kitties |
 | - [MetaMask](https://metamask.io) <br> - [Dapper](https://meetdapper.com) | Brings your wallet to your browser |
 | [IndoDax](https://) | Online Cryptocurrency Marketplace | 
+
+[⬆️ Back to Categories](#categories)
