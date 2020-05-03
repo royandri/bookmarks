@@ -34,7 +34,7 @@ Site / App | Description
 | [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) | View JSON in a more humane way using Chrome |
 | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) | Inspect React component hierarchies when opening React sites |
 | [Netlify](https://netlify.com) | Easy-to-use PaaS for your modern web projects, especially JAMStack projects |
-| [Zeit Now](https://zeit.co) | Another PaaS for modern web projects |
+| [Vercel (formerly Zeit)](https://zeit.co) | Another PaaS for modern web projects |
 | [StackBit](https://stackbit.com/) | Build JAMStack sites just under minutes |
 | [Bulma](https://bulma.io) | Great CSS Framework alternative to Bootstrap |
 | [Saleor](https://getsaleor.com) | GraphQL-First E-Commerce platform framework |
