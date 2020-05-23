@@ -54,6 +54,8 @@ Tool | Description
 | [Vercel (formerly Zeit)](https://zeit.co) | Another PaaS for modern web projects |
 | [StackBit](https://stackbit.com/) | Build JAMStack sites just under minutes |
 | [Expo](https://expo.io) | App Building Toolchain, based on React Native |
+| [Web Vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) | Measure metrics for a healthy site |
+| [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) | Open source browser design tools |
 
 [⬆️ Back to Categories](#categories)
 
@@ -62,6 +64,8 @@ Framework / Library | Description
 |---|---|
 | [Bulma](https://bulma.io) | Great CSS Framework alternative to Bootstrap |
 | [Saleor](https://getsaleor.com) | GraphQL-First E-Commerce platform framework |
+| [Evergreen UI](https://evergreen.segment.com/) | React UI Framework by Segment |
+| [Chakra UI](https://chakra-ui.com/) | React Component Library |
 
 [⬆️ Back to Categories](#categories)
 
