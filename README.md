@@ -56,6 +56,7 @@ Tool | Description
 | [Expo](https://expo.io) | App Building Toolchain, based on React Native |
 | [Web Vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) | Measure metrics for a healthy site |
 | [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) | Open source browser design tools |
+| [Framer](https://framer.com) | App Prototyping Tool |
 
 [⬆️ Back to Categories](#categories)
 
@@ -106,6 +107,9 @@ Site / App | Description
 | [Unsplash](https://unsplash.com) | Free-to-use stock photos |
 | [Freepik](https://freepik.com) | Need some graphic illustrations? |
 | [FlatIcon](https://flaticon.com) | Beautiful flat icons |
+| [Coolors](https://coolors.co) | Color schemes generator |
+| [Framer](https://framer.com) | App Prototyping Tool |
+| [Google Fonts](https://fonts.google.com/) | Fonts for your design or web projects |
 
 [⬆️ Back to Categories](#categories)
 
