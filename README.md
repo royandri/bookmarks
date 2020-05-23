@@ -27,7 +27,7 @@ Site / App | Description
 | [Trello](https://trello.com) | For Kanban lovers |
 | [LessPhone](https://www.producthunt.com/posts/lessphone-launcher) | Stop using your phone too much <br> [android only] |
 | [Mega](https://mega.nz) | Looking for Google Drive alternative? This one has a secure encryption |
-| [Coda](https://coda.io) | Docs for team. I can simply said it's like Notion, but in more linear way. Great for managements. |
+| [Coda](https://coda.io) | Docs for team. It's like Notion, but in more linear way. Great for managements. |
 
 [⬆️ Back to Categories](#categories)
 
@@ -42,6 +42,8 @@ Site / App | Description
 | [w3schools](https://w3schools.com) | No need to explain, who doesn't know w3schools? 😂 |
 | [DEV](https://dev.to/) | It's like Medium but specialized for dev related readings / blogs |
 | [Blockly Games](https://blockly.games/) | Fun Games to learn programming | 
+| [devRant](https://devrant.com/) | Fun community of developers.<br/> Some part of it is like the 9Gag of developers. |
+| [Awesome JS](https://awesomejs.dev/) | Find awesome packages for the framework you are using | 
 
 [⬆️ Back to Categories](#categories)
 
@@ -58,6 +60,7 @@ Tool | Description
 | [Web Vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) | Measure metrics for a healthy site |
 | [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) | Open source browser design tools |
 | [Framer](https://framer.com) | App Prototyping Tool |
+| [Material Design Color Tool](https://material.io/resources/color/) | Create, share, and apply color palettes |
 
 [⬆️ Back to Categories](#categories)
 
@@ -111,6 +114,8 @@ Site / App | Description
 | [Coolors](https://coolors.co) | Color schemes generator |
 | [Framer](https://framer.com) | App Prototyping Tool |
 | [Google Fonts](https://fonts.google.com/) | Fonts for your design or web projects |
+| [Material Design Color Tool](https://material.io/resources/color/) | Create, share, and apply color palettes |
+| [Avataaars Generator](https://getavataaars.com/) | Free online avatar generator |
 
 [⬆️ Back to Categories](#categories)
 
@@ -129,6 +134,7 @@ Site / App | Description
 | [HandBrake](https://handbrake.fr/) | open source video transcoder / converter |
 | [OBS Studio](https://obsproject.com) | Free broadcasting software for live streaming, screen recording |
 | [AIVA](https://aiva.ai) | Compose music with A.I. 🤯 |
+| [Optyx](https://www.optyx.app/) | AI Photo management for Culling photos |
 
 [⬆️ Back to Categories](#categories)
 
@@ -141,6 +147,8 @@ Site / App | Description
 | [Kitsu](https://kitsu.io) | Track your manga and anime reads |
 | [Krunker](https://krunker.io) | Online FPS game from your browser |
 | [ShellShock](https://shellshock.io) | another online FPS game from your browser |
+| [AirConsole](https://www.airconsole.com/) | Multiplayer games, s,artphone as gamepads and browser as the console. |
+
 
 [⬆️ Back to Categories](#categories)
 
