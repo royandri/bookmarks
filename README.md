@@ -41,6 +41,7 @@ Site / App | Description
 | [SoloLearn](https://sololearn.com) | Learn to code for free | 
 | [w3schools](https://w3schools.com) | No need to explain, who doesn't know w3schools? 😂 |
 | [DEV](https://dev.to/) | It's like Medium but specialized for dev related readings / blogs |
+| [Blockly Games](https://blockly.games/) | Fun Games to learn programming | 
 
 [⬆️ Back to Categories](#categories)
 
