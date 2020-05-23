@@ -1,9 +1,14 @@
 # Fun Apps / Sites / Tools / Frameworks / Libraries
 Hope you all find it useful. 
 ___
-### Categories
+## Categories
 - [Productivity](#productivity)
 - [Dev](#dev)
+  > Mostly related to Web Development - Front End
+  - [Pages / Sites](#sites)
+  - [Tools](#tools)
+  - [Frameworks / Libraries](#frameworks-libraries)
+  - [API](#api)
 - [Finance](#finance)
 - [Design](#design)
 - [Business](#business)
@@ -15,7 +20,7 @@ ___
 ### Productivity
 Can't stay silent doing nothing? A lot of things / managements to do?
 
-Site | Description 
+Site / App | Description 
 |---|---|
 | [Evernote](https://evernote.com/) | Straight-forward note taking app |
 | [Notion](https://notion.so) | Great hierarchical note taking app |
@@ -29,7 +34,18 @@ Site | Description
 ### Dev
 Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 
+##### Sites
 Site / App | Description 
+|---|---|
+| [FreeCodeCamp](https://freecodecamp.org) | Learn to code, earn certifications |
+| [SoloLearn](https://sololearn.com) | Learn to code for free | 
+| [w3schools](https://w3schools.com) | No need to explain, who doesn't know w3schools? 😂 |
+| [DEV](https://dev.to/) | It's like Medium but specialized for dev related readings / blogs |
+
+[⬆️ Back to Categories](#categories)
+
+##### Tools
+Tool | Description 
 |---|---|
 | [Wappalyzer](https://www.wappalyzer.com/)| Identify technologies used on websites. |
 | [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) | View JSON in a more humane way using Chrome |
@@ -37,13 +53,22 @@ Site / App | Description
 | [Netlify](https://netlify.com) | Easy-to-use PaaS for your modern web projects, especially JAMStack projects |
 | [Vercel (formerly Zeit)](https://zeit.co) | Another PaaS for modern web projects |
 | [StackBit](https://stackbit.com/) | Build JAMStack sites just under minutes |
+| [Expo](https://expo.io) | App Building Toolchain, based on React Native |
+
+[⬆️ Back to Categories](#categories)
+
+##### Frameworks-Libraries
+Framework / Library | Description
+|---|---|
 | [Bulma](https://bulma.io) | Great CSS Framework alternative to Bootstrap |
 | [Saleor](https://getsaleor.com) | GraphQL-First E-Commerce platform framework |
-| [FreeCodeCamp](https://freecodecamp.org) | Learn to code, earn certifications |
-| [SoloLearn](https://sololearn.com) | Learn to code for free | 
-| [w3schools](https://w3schools.com) | No need to explain, who doesn't know w3schools? 😂 |
-| [Expo](https://expo.io) | App Building Toolchain, based on React Native |
-| Public API Lists | Looking for public API for learning / fun building? <br> - [public-apis](https://github.com/public-apis/public-apis) <br> - [another one](https://github.com/n0shake/Public-APIs) | 
+
+[⬆️ Back to Categories](#categories)
+
+###### API
+API | Description
+|---|---|
+| Public API Lists | Looking for public API for learning / fun building? <br> - [public-apis](https://github.com/public-apis/public-apis) <br> - [another one](https://github.com/n0shake/Public-APIs) |
 
 [⬆️ Back to Categories](#categories)
 
