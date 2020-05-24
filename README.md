@@ -43,7 +43,8 @@ Site / App | Description
 | [DEV](https://dev.to/) | It's like Medium but specialized for dev related readings / blogs |
 | [Blockly Games](https://blockly.games/) | Fun Games to learn programming | 
 | [devRant](https://devrant.com/) | Fun community of developers.<br/> Some part of it is like the 9Gag of developers. |
-| [Awesome JS](https://awesomejs.dev/) | Find awesome packages for the framework you are using | 
+| [Awesome JS](https://awesomejs.dev/) | Find awesome packages for the framework you are using |  
+| [Openbase](https://openbase.io/) | Find the right JS package with powerful insights |
 
 [⬆️ Back to Categories](#categories)
 
