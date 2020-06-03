@@ -11,6 +11,9 @@ ___
   - [:repeat: API](#api)
 - [:money_with_wings: Finance](#finance)
 - [:sparkles: Design](#design)
+  - [:sparkler: Inspirations](#inspirations)
+  - [:floppy_disk: Resources](#resources)
+  - [:wrench: Tools](#designtools)
 - [:briefcase: Business](#business)
 - [:sparkles: Multimedia](#multimedia)
 - [:sparkler: Entertainment](#entertainment)
@@ -99,24 +102,39 @@ Site / App | Description
 An art lover? Aesthetics enthusiast? Looking for a platform to showcase your works? 
 Looking for design resources?
 
+#### Inspirations
+
 Site / App | Description 
 |---|---|
 | [Behance](http://be.net/) | Design showcase platform by Adobe |
 | [Dribbble](https://dribbble.com) | Another design showcase platform... |
-| [Photopea](https://photopea.com) | In rush to open that .PSD files? Use your browser for that |
-| [Unfold](https://unfoldstori.es/) | Great tool for making simple yet beautiful visual stories |
-| [Canva](https://canva.com) | Looking for tools which can do photo edit, graphic design content? This one can run on web and mobile |
-| [Over](https://www.madewithover.com/) | Basically have the same abilities with Canva but this one is my favorite, except this one only runs on mobile |
-| [LunaPic](https://www10.lunapic.com/editor/) | Another Photoshop alternative that runs on browser, but I mostly use this as the tool to make transparent image |
+
+[⬆️ Back to Categories](#categories)
+
+#### Resources
+Site / App | Description 
+|---|---|
 | [FDR](https://freedesignresources.net) | Regularly updated free design resources picked for you to use |
 | [FreebieSupply](https://freebiesupply.com/) | Need some design resources for Adobe Xd, Figma, Sketch, Photoshop, Illustrator? |
 | [Unsplash](https://unsplash.com) | Free-to-use stock photos |
 | [Freepik](https://freepik.com) | Need some graphic illustrations? |
 | [FlatIcon](https://flaticon.com) | Beautiful flat icons |
-| [Coolors](https://coolors.co) | Color schemes generator |
+
+[⬆️ Back to Categories](#categories)
+
+#### DesignTools
+Site / App | Description 
+|---|---|
 | [Framer](https://framer.com) | App Prototyping Tool |
 | [Google Fonts](https://fonts.google.com/) | Fonts for your design or web projects |
+| [Photopea](https://photopea.com) | In rush to open that .PSD files? Use your browser for that |
+| [Unfold](https://unfoldstori.es/) | Great tool for making simple yet beautiful visual stories |
+| [Canva](https://canva.com) | Looking for tools which can do photo edit, graphic design content? This one can run on web and mobile |
+| [Over](https://www.madewithover.com/) | Basically have the same abilities with Canva but this one is my favorite, except this one only runs on mobile |
+| [LunaPic](https://www10.lunapic.com/editor/) | Another Photoshop alternative that runs on browser, but I mostly use this as the tool to make transparent image |
 | [Material Design Color Tool](https://material.io/resources/color/) | Create, share, and apply color palettes |
+| [Coolors](https://coolors.co) | Color schemes generator |
+| [Muzli Colors](https://colors.muz.li/) | Color paletter generator |
 | [Avataaars Generator](https://getavataaars.com/) | Free online avatar generator |
 
 [⬆️ Back to Categories](#categories)
