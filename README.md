@@ -6,7 +6,7 @@ ___
 - [:man_technologist: Dev](#dev)
   > Mostly related to Web Development - Front End
   - [:globe_with_meridians: Pages / Sites](#sites)
-  - [:wrench: Tools](#tools)
+  - [:wrench: Tools](#devtools)
   - [:sparkles: Frameworks / Libraries](#frameworks-libraries)
   - [:repeat: API](#api)
 - [:money_with_wings: Finance](#finance)
@@ -51,7 +51,7 @@ Site / App | Description
 
 [⬆️ Back to Categories](#categories)
 
-##### Tools
+##### DevTools
 Tool | Description 
 |---|---|
 | [Wappalyzer](https://www.wappalyzer.com/)| Identify technologies used on websites. |
@@ -102,7 +102,7 @@ Site / App | Description
 An art lover? Aesthetics enthusiast? Looking for a platform to showcase your works? 
 Looking for design resources?
 
-#### Inspirations
+##### Inspirations
 
 Site / App | Description 
 |---|---|
@@ -111,7 +111,7 @@ Site / App | Description
 
 [⬆️ Back to Categories](#categories)
 
-#### Resources
+##### Resources
 Site / App | Description 
 |---|---|
 | [FDR](https://freedesignresources.net) | Regularly updated free design resources picked for you to use |
@@ -122,7 +122,7 @@ Site / App | Description
 
 [⬆️ Back to Categories](#categories)
 
-#### DesignTools
+##### DesignTools
 Site / App | Description 
 |---|---|
 | [Framer](https://framer.com) | App Prototyping Tool |
