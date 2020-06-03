@@ -1,21 +1,21 @@
-# Fun Apps / Sites / Tools / Frameworks / Libraries
+# :star: Fun Apps / Sites / Tools / Frameworks / Libraries :star:
 Hope you all find it useful. 
 ___
-## Categories
-- [Productivity](#productivity)
-- [Dev](#dev)
+## Categories 
+- [:briefcase: Productivity](#productivity)
+- [:man_technologist: Dev](#dev)
   > Mostly related to Web Development - Front End
-  - [Pages / Sites](#sites)
-  - [Tools](#tools)
-  - [Frameworks / Libraries](#frameworks-libraries)
-  - [API](#api)
-- [Finance](#finance)
-- [Design](#design)
-- [Business](#business)
-- [Multimedia](#multimedia)
-- [Entertainment](#entertainment)
-- [Security](#security)
-- [Blockchain](#blockchain)
+  - [:globe_with_meridians: Pages / Sites](#sites)
+  - [:wrench: Tools](#tools)
+  - [:sparkles: Frameworks / Libraries](#frameworks-libraries)
+  - [:repeat: API](#api)
+- [:money_with_wings: Finance](#finance)
+- [:sparkles: Design](#design)
+- [:briefcase: Business](#business)
+- [:sparkles: Multimedia](#multimedia)
+- [:sparkler: Entertainment](#entertainment)
+- [:closed_lock_with_key: Security](#security)
+- [:diamond_shape_with_a_dot_inside: Blockchain](#blockchain)
 
 ### Productivity
 Can't stay silent doing nothing? A lot of things / managements to do?
