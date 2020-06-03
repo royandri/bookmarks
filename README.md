@@ -118,7 +118,7 @@ Site / App | Description
 | [FreebieSupply](https://freebiesupply.com/) | Need some design resources for Adobe Xd, Figma, Sketch, Photoshop, Illustrator? |
 | [Unsplash](https://unsplash.com) | Free-to-use stock photos |
 | [Freepik](https://freepik.com) | Need some graphic illustrations? |
-| [Stories by Freepik](https://stories.freepik.com/) | Free concept illustrations for your prototype or app projects... This is what I've been looking for years ago. |
+| [Stories by Freepik](https://stories.freepik.com/) | Free cool illustrations for your prototype or app projects... This is what I've been looking for years ago. |
 | [FlatIcon](https://flaticon.com) | Beautiful flat icons |
 | [The Noun Project](https://thenounproject.com/) | Royalty free icons |
 
