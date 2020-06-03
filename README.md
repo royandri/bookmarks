@@ -53,6 +53,7 @@ Tool | Description
 |---|---|
 | [Wappalyzer](https://www.wappalyzer.com/)| Identify technologies used on websites. |
 | [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) | View JSON in a more humane way using Chrome |
+| [Diagrams](https://www.diagrams.net/) | My favorite tool to make flowcharts and diagrams. I recommend to install the desktop version if you have unstable connections. |
 | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) | Inspect React component hierarchies when opening React sites |
 | [Netlify](https://netlify.com) | Easy-to-use PaaS for your modern web projects, especially JAMStack projects |
 | [Vercel (formerly Zeit)](https://zeit.co) | Another PaaS for modern web projects |
