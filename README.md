@@ -120,7 +120,9 @@ Site / App | Description
 | [Freepik](https://freepik.com) | Need some graphic illustrations? |
 | [Stories by Freepik](https://stories.freepik.com/) | Free cool illustrations for your prototype or app projects... This is what I've been looking for years ago. |
 | [FlatIcon](https://flaticon.com) | Beautiful flat icons |
+| [Icons8](https://icons8.com/) | Free Icons, Photos, vectors, music, and tools |
 | [The Noun Project](https://thenounproject.com/) | Royalty free icons |
+| [FeatherIcons](https://feathericons.com/) | Beautiful open source icons |
 
 [⬆️ Back to Categories](#categories)
 
