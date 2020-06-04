@@ -1,4 +1,4 @@
-# :star: Fun Apps / Sites / Tools / Frameworks / Libraries :star:
+# :star: Fun Apps / Sites / Tools / Frameworks / Libraries / Resources :star:
 Hope you all find it useful. 
 ___
 ## Categories 
