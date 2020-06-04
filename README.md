@@ -62,7 +62,7 @@ Site / App | Description
 Site | Description
 |---|---|
 | [Blockly Games](https://blockly.games/) | Fun Games to learn programming | 
-| [Flexbox Defens](http://www.flexboxdefense.com/) | Learn flexbox through game |
+| [Flexbox Defense](http://www.flexboxdefense.com/) | Learn flexbox through game |
 
 [⬆️ Back to Categories](#categories)
 
