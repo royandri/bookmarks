@@ -6,6 +6,7 @@ ___
 - [:man_technologist: Dev](#dev)
   > Mostly related to Web Development - Front End
   - [:globe_with_meridians: Pages / Sites](#sites)
+    - [:video_game: Games](#dev-games)
   - [:wrench: Tools](#devtools)
   - [:sparkles: Frameworks / Libraries](#frameworks-libraries)
   - [:repeat: API](#api)
@@ -50,10 +51,18 @@ Site / App | Description
 | [w3schools](https://w3schools.com) | No need to explain, who doesn't know w3schools? 😂 |
 | [DEV](https://dev.to/) | It's like Medium but specialized for dev related readings / blogs |
 | [ProductHunt](https://producthunt.com) | Find interesting products around the web. |
-| [Blockly Games](https://blockly.games/) | Fun Games to learn programming | 
 | [devRant](https://devrant.com/) | Fun community of developers.<br/> Some part of it is like the 9Gag of developers. |
 | [Awesome JS](https://awesomejs.dev/) | Find awesome packages for the framework you are using |  
 | [Openbase](https://openbase.io/) | Find the right JS package with powerful insights |
+
+[⬆️ Back to Categories](#categories)
+
+###### Dev-Games
+
+Site | Description
+|---|---|
+| [Blockly Games](https://blockly.games/) | Fun Games to learn programming | 
+| [Flexbox Defens](http://www.flexboxdefense.com/) | Learn flexbox through game |
 
 [⬆️ Back to Categories](#categories)
 
