@@ -205,7 +205,8 @@ Site / App | Description
 | [Icons8 Ouch](https://icons8.com/ouch) | Free Vector Illustrations to Class up Your Project |
 | [Stubborn](https://stubborn.fun/) | design your characters using generator absolutely for free | 
 | | |
-| | by Pablo Stanley |
+| | |
+| | ***by Pablo Stanley*** |
 | [Blush](https://blush.design) | Illustrations |
 | [OpenPeeps](https://www.openpeeps.com/) | A hand-drawn illustration library. |
 | [Open Doodles](https://www.opendoodles.com/) | Free sketchy illustrations |
