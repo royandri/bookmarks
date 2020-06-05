@@ -8,6 +8,7 @@ ___
   - [:globe_with_meridians: Pages / Sites](#sites)
     - [:video_game: Games](#dev-games)
   - [:wrench: Tools](#devtools)
+    - [:man_mechanic: VS Code Plugins](#vscode-plugins)
   - [:sparkles: Frameworks / Libraries](#frameworks-libraries)
   - [:repeat: API](#api)
 - [:money_with_wings: Finance](#finance)
@@ -84,6 +85,24 @@ Tool | Description
 | [Material Design Color Tool](https://material.io/resources/color/) | Create, share, and apply color palettes |
 | [SupaBase](https://supabase.io) | Firebase alternative |
 | [AppWrite](https://appwrite.io) | Open source backend server |
+
+[⬆️ Back to Categories](#categories)
+
+###### VSCode-Plugins
+
+Plugins | Description
+|---|---|
+| [Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) | My favorite theme |
+| [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Material Design Icons for Visual Studio Code |
+| [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Code formatter using prettier |
+| [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | colorizing matching brackets, customizable. Really useful for code readbility |
+| [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | Makes indentation easier to read |
+| [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) | Markdown Preview Enhanced ported to vscode |
+| [EmojiSense](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) | Adds suggestions and autocomplete for emoji |
+| [ES7 React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) | Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax |
+| [Ionic Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets) | Ionic snippets for VS Code |
+| [Svelte](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode) | Svelte language support for VS Code | 
+| 
 
 [⬆️ Back to Categories](#categories)
 
