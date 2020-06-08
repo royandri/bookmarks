@@ -85,6 +85,7 @@ Tool | Description
 | [Material Design Color Tool](https://material.io/resources/color/) | Create, share, and apply color palettes |
 | [SupaBase](https://supabase.io) | Firebase alternative |
 | [AppWrite](https://appwrite.io) | Open source backend server |
+| [Octopus](https://octopus.do) | a lightning-fast visual sitemap builder |
 
 [⬆️ Back to Categories](#categories)
 
@@ -232,6 +233,7 @@ Site / App | Description
 | [Muzli Colors](https://colors.muz.li/) | Color paletter generator |
 | [Avataaars Generator](https://getavataaars.com/) | Free online avatar generator |
 | [PhotoATM](https://photoatm.com/) | Create design in seconds. I think it's like Canva and Over |
+| [Octopus](https://octopus.do) | a lightning-fast visual sitemap builder |
 
 [⬆️ Back to Categories](#categories)
 
