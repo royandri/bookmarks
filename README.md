@@ -55,6 +55,7 @@ Site / App | Description
 | [devRant](https://devrant.com/) | Fun community of developers.<br/> Some part of it is like the 9Gag of developers. |
 | [Awesome JS](https://awesomejs.dev/) | Find awesome packages for the framework you are using |  
 | [Openbase](https://openbase.io/) | Find the right JS package with powerful insights |
+| [Design Systems Repo](https://designsystemsrepo.com/) | A frequently updated collection of Design System examples, articles, tools and talks. |
 
 [⬆️ Back to Categories](#categories)
 
@@ -147,6 +148,8 @@ Site / App | Description
 |---|---|
 | [Behance](http://be.net/) | Design showcase platform by Adobe |
 | [Dribbble](https://dribbble.com) | Another design showcase platform... |
+| [Design Systems Repo](https://designsystemsrepo.com/) | A frequently updated collection of Design System examples, articles, tools and talks. |
+| [Design Better](https://www.designbetter.co/) | Discover the world's best design practice. |
 
 [⬆️ Back to Categories](#categories)
 
