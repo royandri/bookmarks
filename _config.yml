@@ -1,4 +1,4 @@
-remote_theme: amitmerchant1990/reverie
+remote_theme: mzlogin/mzlogin.github.io
 plugins:
   - jekyll-relative-links
   - jemoji
