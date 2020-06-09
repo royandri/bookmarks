@@ -1,30 +1,31 @@
-# :star: Fun Apps / Sites / Tools / Frameworks / Libraries / Resources :star:
+# ⭐ Fun Apps / Sites / Tools / Frameworks / Libraries / Resources ⭐
+
 Hope you all find it useful. 
-___
+
 ## Categories 
-- [:briefcase: Productivity](#productivity)
-- [:man_technologist: Dev](#dev)
+- [💼 Productivity](#productivity)
+- [👨‍💻 Dev](#dev)
   > Mostly related to Web Development - Front End
-  - [:globe_with_meridians: Pages / Sites](#sites)
-    - [:video_game: Games](#dev-games)
-  - [:wrench: Tools](#devtools)
-    - [:man_mechanic: VS Code Plugins](#vscode-plugins)
-  - [:sparkles: Frameworks / Libraries](#frameworks-libraries)
-  - [:repeat: API](#api)
-- [:money_with_wings: Finance](#finance)
-- [:sparkles: Design](#design)
-  - [:sparkler: Inspirations](#inspirations)
-  - [:floppy_disk: Resources](#resources)
-    - [:camera: Photos](#photos)
-    - [:star: Icons](#icons)
-    - [:sparkles: Illustrations](#illustrations)
-      - [:ok_man: Scenes](#scenes-illustrations)
-  - [:wrench: Tools](#designtools)
-- [:briefcase: Business](#business)
-- [:sparkles: Multimedia](#multimedia)
-- [:sparkler: Entertainment](#entertainment)
-- [:closed_lock_with_key: Security](#security)
-- [:diamond_shape_with_a_dot_inside: Blockchain](#blockchain)
+  - [🌐 Pages / Sites](#sites)
+    - [🎮 Games](#dev-games)
+  - [🔧 Tools](#devtools)
+    - [👨‍🔧 VS Code Plugins](#vscode-plugins)
+  - [✨ Frameworks / Libraries](#frameworks-libraries)
+  - [🔁 API](#api)
+- [💸 Finance](#finance)
+- [✨ Design](#design)
+  - [🎇 Inspirations](#inspirations)
+  - [💾 Resources](#resources)
+    - [📷 Photos](#photos)
+    - [⭐ Icons](#icons)
+    - [✨ Illustrations](#illustrations)
+      - [🙆‍♂️ Scenes](#scenes-illustrations)
+  - [🔧 Tools](#designtools)
+- [💼 Business](#business)
+- [✨ Multimedia](#multimedia)
+- [🎇 Entertainment](#entertainment)
+- [🔐 Security](#security)
+- [💠 Blockchain](#blockchain)
 
 ### Productivity
 Can't stay silent doing nothing? A lot of things / managements to do?
