@@ -1,4 +1,4 @@
-remote_theme: mzlogin/mzlogin.github.io
+theme: tactile
 plugins:
   - jekyll-relative-links
   - jemoji
