@@ -1,4 +1,4 @@
-theme: tactile
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
   - jemoji
