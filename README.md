@@ -103,7 +103,7 @@ Plugins | Description
 | [EmojiSense](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) | Adds suggestions and autocomplete for emoji |
 | [ES7 React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) | Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax |
 | [Ionic Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets) | Ionic snippets for VS Code |
-| [Svelte](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode) | Svelte language support for VS Code | 
+| [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) | Svelte language support for VS Code | 
 
 [⬆️ Back to Categories](#categories)
 
