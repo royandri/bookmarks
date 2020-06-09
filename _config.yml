@@ -1,4 +1,4 @@
-remote_theme: poole/hyde
+remote_theme: amitmerchant1990/reverie
 plugins:
   - jekyll-relative-links
   - jemoji
