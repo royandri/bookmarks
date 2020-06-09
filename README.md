@@ -29,7 +29,7 @@ ___
 ### Productivity
 Can't stay silent doing nothing? A lot of things / managements to do?
 
-Site / App | Description 
+| Site / App | Description | 
 |---|---|
 | [Evernote](https://evernote.com/) | Straight-forward note taking app |
 | [Notion](https://notion.so) | Great hierarchical note taking app |
@@ -45,7 +45,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 
 ##### Sites
 
-Site / App | Description 
+| Site / App | Description |
 |---|---|
 | [FreeCodeCamp](https://freecodecamp.org) | Learn to code, earn certifications |
 | [SoloLearn](https://sololearn.com) | Learn to code for free | 
@@ -61,7 +61,7 @@ Site / App | Description
 
 ###### Dev-Games
 
-Site | Description
+| Site/App | Description |
 |---|---|
 | [Blockly Games](https://blockly.games/) | Fun Games to learn programming | 
 | [Flexbox Defense](http://www.flexboxdefense.com/) | Learn flexbox through game |
@@ -70,7 +70,7 @@ Site | Description
 
 ##### DevTools
 
-Tool | Description 
+| Tool | Description | 
 |---|---|
 | [Wappalyzer](https://www.wappalyzer.com/)| Identify technologies used on websites. |
 | [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) | View JSON in a more humane way using Chrome |
@@ -92,7 +92,7 @@ Tool | Description
 
 ###### VSCode-Plugins
 
-Plugins | Description
+| Plugins | Description |
 |---|---|
 | [Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) | My favorite theme |
 | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Material Design Icons for Visual Studio Code |
@@ -109,7 +109,7 @@ Plugins | Description
 
 ##### Frameworks-Libraries
 
-Framework / Library | Description
+| Framework / Library | Description |
 |---|---|
 | [Bulma](https://bulma.io) | Great CSS Framework alternative to Bootstrap |
 | [Saleor](https://getsaleor.com) | GraphQL-First E-Commerce platform framework |
@@ -120,7 +120,7 @@ Framework / Library | Description
 
 ###### API
 
-API | Description
+| API | Description |
 |---|---|
 | Public API Lists | Looking for public API for learning / fun building? <br> - [public-apis](https://github.com/public-apis/public-apis) <br> - [another one](https://github.com/n0shake/Public-APIs) |
 
@@ -129,7 +129,7 @@ API | Description
 ### Finance
 Care about finance world?
 
-Site / App | Description 
+| Site / App | Description | 
 |---|---|
 | [Wallet by Budgetbakers](https://budgetbakers.com) | Personal finance tracking app |
 | [Blockfolio](https://blockfolio.com) | Cryptocurrency and money portfolio tracker | 
@@ -144,7 +144,7 @@ Looking for design resources?
 
 ##### Inspirations
 
-Site / App | Description 
+| Site / App | Description | 
 |---|---|
 | [Behance](http://be.net/) | Design showcase platform by Adobe |
 | [Dribbble](https://dribbble.com) | Another design showcase platform... |
@@ -155,7 +155,7 @@ Site / App | Description
 
 ##### Resources
 
-Site / App | Description 
+| Site / App | Description |
 |---|---|
 | [FDR](https://freedesignresources.net) | Regularly updated free design resources picked for you to use |
 | [FreebieSupply](https://freebiesupply.com/) | Need some design resources for Adobe Xd, Figma, Sketch, Photoshop, Illustrator? |
@@ -165,7 +165,7 @@ Site / App | Description
 
 ###### Photos
 
-Site / App | Description 
+| Site / App | Description | 
 |---|---|
 | [Unsplash](https://unsplash.com) | Free-to-use high quality stock photos |
 | [Pexels](https://pexels.com) | Free-to-use photos |
@@ -174,7 +174,7 @@ Site / App | Description
 
 ###### Icons
 
-Site / App | Description 
+| Site / App | Description |
 |---|---|
 | [FlatIcon](https://flaticon.com) | Beautiful flat icons |
 | [Icons8](https://icons8.com/) | Free Icons, Photos, vectors, music, and tools |
@@ -185,7 +185,7 @@ Site / App | Description
 
 ###### Illustrations
 
-Site / App | Description
+| Site / App | Description |
 |---|---|
 | [Freepik](https://freepik.com) | Need some graphic illustrations? |
 | [Illustrations.co](https://illlustrations.co/) | Open source illustrations kit |
@@ -199,7 +199,7 @@ Site / App | Description
 ###### Scenes-Illustrations
 Beautiful scenes illustrations for your projects. Can elevate your projects especially if you are building prototypes or don't have time to make illustrations by yourself.
 
-Site / App | Description
+| Site / App | Description |
 |---|---|
 | [Stories by Freepik](https://stories.freepik.com/) | Free cool illustrations for your prototype or app projects... This is what I've been looking for years ago. |
 | [Pof-Pof](https://products.ls.graphics/pof-pof/) | |
@@ -222,7 +222,7 @@ Site / App | Description
 ##### DesignTools
 Figma, Sketch...no need to mention them again in this list, right? So here's the others...
 
-Site / App | Description 
+| Site / App | Description | 
 |---|---|
 | [Framer](https://framer.com) | App Prototyping Tool |
 | [Google Fonts](https://fonts.google.com/) | Fonts for your design or web projects |
@@ -242,7 +242,7 @@ Site / App | Description
 
 ### Business
 
-Site / App | Description
+| Site / App | Description |
 |---|---|
 | [Zoho](https://zoho.com) | All-in-one business solution (mail, invoice, CRM, etc) |
 | [Slack](https://slack.com) | Collaborative group instant messaging |
@@ -252,7 +252,7 @@ Site / App | Description
 
 ### Multimedia
 
-Site / App | Description
+| Site / App | Description |
 |---|---|
 | [HandBrake](https://handbrake.fr/) | open source video transcoder / converter |
 | [OBS Studio](https://obsproject.com) | Free broadcasting software for live streaming, screen recording |
@@ -263,7 +263,7 @@ Site / App | Description
 
 ### Entertainment
 
-Site / App | Description 
+| Site / App | Description | 
 |---|---|
 | [SpotifyStatistics](https://spotifystatistics.com)| Gives you insights into how you listen to music |
 | [Trakt](https://trakt.tv) | Track your previous watchings (movies, TV series), discover other |
@@ -277,7 +277,7 @@ Site / App | Description
 
 ### Security
 
-Site / App | Description 
+| Site / App | Description | 
 |---|---|
 | [HaveIBeenPwned](https://haveibeenpwned.com/)| Can check your email and also test your passwords if it's been leaked or not. |
 | [Firefox Monitor](https://monitor.firefox.com/) | Check have your account passwords leaked or not. |
@@ -288,7 +288,7 @@ Site / App | Description
 
 ### Blockchain
 
-Site / App | Description
+| Site / App | Description |
 |---|---|
 | [BlockStack](https://blockstack.org) | Decentralized computing network and app ecosystem. <br> Powered by Stacks blockchain. |
 | [Graphite](https://graphitedocs.com) | Google Docs alternative with more privacy | 
