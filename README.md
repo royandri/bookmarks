@@ -1,4 +1,4 @@
-# ⭐ Fun Apps / Sites / Tools / Frameworks / Libraries / Resources ⭐
+# ⭐Fun Apps / Sites / Tools / Frameworks / Libraries / Resources⭐
 
 Hope you all find it useful. 
 
@@ -57,6 +57,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [Awesome JS](https://awesomejs.dev/) | Find awesome packages for the framework you are using |  
 | [Openbase](https://openbase.io/) | Find the right JS package with powerful insights |
 | [Design Systems Repo](https://designsystemsrepo.com/) | A frequently updated collection of Design System examples, articles, tools and talks. |
+| [Git Explorer](https://gitexplorer.com/) | Find the right git commands you need without digging through the web. |
 
 [⬆️ Back to Categories](#categories)
 
