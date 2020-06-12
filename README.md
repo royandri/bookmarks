@@ -249,6 +249,7 @@ Figma, Sketch...no need to mention them again in this list, right? So here's the
 | [Zoho](https://zoho.com) | All-in-one business solution (mail, invoice, CRM, etc) |
 | [Slack](https://slack.com) | Collaborative group instant messaging |
 | [Zoom](https://zoom.us) | Video conferencing |
+| [Mailbum](https://mailbum.io/) | Email signatures without the fuss. |
 
 [⬆️ Back to Categories](#categories)
 
