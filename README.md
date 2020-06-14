@@ -22,6 +22,7 @@ Hope you all find it useful.
       - [🙆‍♂️ Scenes](#scenes-illustrations)
   - [🔧 Tools](#designtools)
 - [💼 Business](#business)
+  - [Page Builder](#page-builder)
 - [✨ Multimedia](#multimedia)
 - [🎇 Entertainment](#entertainment)
 - [🔐 Security](#security)
@@ -53,11 +54,13 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [w3schools](https://w3schools.com) | No need to explain, who doesn't know w3schools? 😂 |
 | [DEV](https://dev.to/) | It's like Medium but specialized for dev related readings / blogs |
 | [ProductHunt](https://producthunt.com) | Find interesting products around the web. |
+| [AlternativeTo](https://alternativeto.net/) | Find Alternatives and Similar Web Apps. |
 | [devRant](https://devrant.com/) | Fun community of developers.<br/> Some part of it is like the 9Gag of developers. |
 | [Awesome JS](https://awesomejs.dev/) | Find awesome packages for the framework you are using |  
 | [Openbase](https://openbase.io/) | Find the right JS package with powerful insights |
 | [Design Systems Repo](https://designsystemsrepo.com/) | A frequently updated collection of Design System examples, articles, tools and talks. |
 | [Git Explorer](https://gitexplorer.com/) | Find the right git commands you need without digging through the web. |
+| [StackShare](https://stackshare.io/) | Find the right developer tools and the companies that use them. |
 
 [⬆️ Back to Categories](#categories)
 
@@ -89,6 +92,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [SupaBase](https://supabase.io) | Firebase alternative |
 | [AppWrite](https://appwrite.io) | Open source backend server |
 | [Octopus](https://octopus.do) | a lightning-fast visual sitemap builder |
+| [GitFolio](https://github.com/imfunniee/gitfolio) | personal website + blog for every github user |
 
 [⬆️ Back to Categories](#categories)
 
@@ -250,6 +254,21 @@ Figma, Sketch...no need to mention them again in this list, right? So here's the
 | [Slack](https://slack.com) | Collaborative group instant messaging |
 | [Zoom](https://zoom.us) | Video conferencing |
 | [Mailbum](https://mailbum.io/) | Email signatures without the fuss. |
+
+[⬆️ Back to Categories](#categories)
+
+##### Page-Builder
+built page for your profile with just some clicks. Most of it are free.
+
+| Site / App | Description |
+|---|---|
+| [Carrd](https://carrd.co/) | Simple, free, fully responsive one-page sites for pretty much anything. | 
+| [About.Me](https://about.me/) | Your personal homepage |
+| [Linktree](https://linktr.ee/) | Connect audiences to all of your content with just one link |
+| [ContactUp](https://contactup.io/) | Your personal page made simple. |
+| [Sleek](https://sleek.page/) | Build a personal website, blog, or portfolio |
+| [NeoCities](https://neocities.org/) | Create your own free website! |
+| [YouDontNeedWP](https://www.youdontneedwp.com/) | Create A Blog With Only Google Docs | 
 
 [⬆️ Back to Categories](#categories)
 
