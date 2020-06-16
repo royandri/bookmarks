@@ -156,6 +156,9 @@ Looking for design resources?
 | [Dribbble](https://dribbble.com) | Another design showcase platform... |
 | [Design Systems Repo](https://designsystemsrepo.com/) | A frequently updated collection of Design System examples, articles, tools and talks. |
 | [Design Better](https://www.designbetter.co/) | Discover the world's best design practice. |
+| [UI Garage](https://uigarage.net/) | Daily UI Inspiration & Patterns for Web, Mobile & Tablet. |
+| [Pttrns](https://pttrns.com/) | Mobile Design Patterns. |
+| [Mobbin](https://mobbin.design/) | Latest Mobile Design Patterns. |
 
 [⬆️ Back to Categories](#categories)
 
