@@ -101,7 +101,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | Plugins | Description |
 |---|---|
 | [Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) | My favorite theme |
-| [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Material Design Icons for Visual Studio Code |
+| [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Material Design Icons for Visual Studio Code |
 | [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Code formatter using prettier |
 | [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | colorizing matching brackets, customizable. Really useful for code readbility |
 | [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | Makes indentation easier to read |
@@ -110,6 +110,9 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [ES7 React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) | Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax |
 | [Ionic Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets) | Ionic snippets for VS Code |
 | [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) | Svelte language support for VS Code | 
+| [SnipSnap](https://marketplace.visualstudio.com/items?itemName=snipsnapdev.snipsnap-vscode) | Code snippets for React, Gatsby, Next.js, Redux and more | 
+| [TailwindCSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | Intelligent Tailwind CSS tooling for VS Code |
+| [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Provides programming metrics right in Visual Studio Code. |
 
 [⬆️ Back to Categories](#categories)
 
