@@ -61,6 +61,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [Design Systems Repo](https://designsystemsrepo.com/) | A frequently updated collection of Design System examples, articles, tools and talks. |
 | [Git Explorer](https://gitexplorer.com/) | Find the right git commands you need without digging through the web. |
 | [StackShare](https://stackshare.io/) | Find the right developer tools and the companies that use them. |
+| [JAMStackTraining](https://jamstack.training/) | Learn JAMStack for free. |
 
 [⬆️ Back to Categories](#categories)
 
