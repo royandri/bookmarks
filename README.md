@@ -300,6 +300,7 @@ built page for your profile with just some clicks. Most of it are free.
 | [Krunker](https://krunker.io) | Online FPS game from your browser |
 | [ShellShock](https://shellshock.io) | another online FPS game from your browser |
 | [AirConsole](https://www.airconsole.com/) | Multiplayer games, s,artphone as gamepads and browser as the console. |
+| [TwoSeven](https://twoseven.xyz/) | Watch videos together with your friends online! They'll handle the video synchronization for you! It even support local files! |
 
 
 [⬆️ Back to Categories](#categories)
