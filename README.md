@@ -287,6 +287,7 @@ built page for your profile with just some clicks. Most of it are free.
 | [OBS Studio](https://obsproject.com) | Free broadcasting software for live streaming, screen recording |
 | [AIVA](https://aiva.ai) | Compose music with A.I. 🤯 |
 | [Optyx](https://www.optyx.app/) | AI Photo management for Culling photos |
+| [Visuals of Earth](https://visualsofearth.com/) | Free stunning mobile wallpapers. |
 
 [⬆️ Back to Categories](#categories)
 
