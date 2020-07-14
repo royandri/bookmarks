@@ -10,6 +10,7 @@ Hope you all find it useful.
     - [🎮 Games](#dev-games)
   - [🔧 Tools](#devtools)
     - [👨‍🔧 VS Code Plugins](#vscode-plugins)
+    - [🌐 Develop on the web](#develop-on-the-web)
   - [✨ Frameworks / Libraries](#frameworks-libraries)
   - [🔁 API](#api)
 - [💸 Finance](#finance)
@@ -114,6 +115,16 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [SnipSnap](https://marketplace.visualstudio.com/items?itemName=snipsnapdev.snipsnap-vscode) | Code snippets for React, Gatsby, Next.js, Redux and more | 
 | [TailwindCSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | Intelligent Tailwind CSS tooling for VS Code |
 | [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Provides programming metrics right in Visual Studio Code. |
+
+[⬆️ Back to Categories](#categories)
+
+##### Develop-on-the-Web
+
+| Site | Description |
+|---|---|
+| [CodeSandbox](https://codesandbox.io/) | instant IDE and prototyping tool for rapid web development. |
+| [StackBlitz](https://stackblitz.com/) | Online code editor for web apps. |
+| [Glitch](https://glitch.com/) | Build fast, full-stack web apps in your browser for free. |
 
 [⬆️ Back to Categories](#categories)
 
