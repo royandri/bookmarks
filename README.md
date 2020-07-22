@@ -95,6 +95,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [AppWrite](https://appwrite.io) | Open source backend server |
 | [Octopus](https://octopus.do) | a lightning-fast visual sitemap builder |
 | [GitFolio](https://github.com/imfunniee/gitfolio) | personal website + blog for every github user |
+| [CodeFactor](https://codefactor.io) | Automated code review for git |
 
 [⬆️ Back to Categories](#categories)
 
