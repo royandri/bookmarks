@@ -115,6 +115,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [SnipSnap](https://marketplace.visualstudio.com/items?itemName=snipsnapdev.snipsnap-vscode) | Code snippets for React, Gatsby, Next.js, Redux and more | 
 | [TailwindCSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | Intelligent Tailwind CSS tooling for VS Code |
 | [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Provides programming metrics right in Visual Studio Code. |
+| [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) | View a Git Graph of your repository, and perform Git actions from the graph. |
 
 [⬆️ Back to Categories](#categories)
 
