@@ -28,6 +28,7 @@ Hope you all find it useful.
 - [🎇 Entertainment](#entertainment)
 - [🔐 Security](#security)
 - [💠 Blockchain](#blockchain)
+- [😎 Self Appreciation](#self)
 
 ### Productivity
 Can't stay silent doing nothing? A lot of things / managements to do?
@@ -342,3 +343,9 @@ built page for your profile with just some clicks. Most of it are free.
 | [IndoDax](https://) | Online Cryptocurrency Marketplace | 
 
 [⬆️ Back to Categories](#categories)
+
+### Self
+
+| Site / App | Description |
+|---|---|
+| [futureme](https://futureme.org) | Write a message to your future self |
