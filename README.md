@@ -350,4 +350,4 @@ built page for your profile with just some clicks. Most of it are free.
 
 | Site / App | Description |
 |---|---|
-| [futureme](https://futureme.org) | Write a message to your future self |
+| [futureme](https://www.futureme.org) | Write a message to your future self |
