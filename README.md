@@ -118,6 +118,8 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [TailwindCSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) | Intelligent Tailwind CSS tooling for VS Code |
 | [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Provides programming metrics right in Visual Studio Code. |
 | [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) | View a Git Graph of your repository, and perform Git actions from the graph. |
+| [VSCode Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits) | Conventional Commits for VSCode. |
+| [MDX](https://marketplace.visualstudio.com/items?itemName=silvenon.mdx) | Provides syntax highlighting and bracket matching for MDX (JSX in Markdown) files. |
 
 [⬆️ Back to Categories](#categories)
 
