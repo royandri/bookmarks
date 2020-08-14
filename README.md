@@ -64,6 +64,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [Git Explorer](https://gitexplorer.com/) | Find the right git commands you need without digging through the web. |
 | [StackShare](https://stackshare.io/) | Find the right developer tools and the companies that use them. |
 | [JAMStackTraining](https://jamstack.training/) | Learn JAMStack for free. |
+| [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) | another list of wonderful stuffs. |
 
 [⬆️ Back to Categories](#categories)
 
