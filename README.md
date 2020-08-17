@@ -107,6 +107,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 |---|---|
 | [Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) | My favorite theme |
 | [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Material Design Icons for Visual Studio Code |
+| [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) | another icons theme for VS Code |
 | [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Code formatter using prettier |
 | [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | colorizing matching brackets, customizable. Really useful for code readbility |
 | [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | Makes indentation easier to read |
