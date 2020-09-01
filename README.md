@@ -98,6 +98,7 @@ Are you a tech / web enthusiast? Don't miss out this sites / tools / frameworks!
 | [Octopus](https://octopus.do) | a lightning-fast visual sitemap builder |
 | [GitFolio](https://github.com/imfunniee/gitfolio) | personal website + blog for every github user |
 | [CodeFactor](https://codefactor.io) | Automated code review for git |
+| [BundlePhobia](https://bundlephobia.com/) | find the cost of adding a npm package to your bundle, or just scan your `package.json` |
 
 [⬆️ Back to Categories](#categories)
 
