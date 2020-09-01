@@ -29,6 +29,7 @@ Hope you all find it useful.
 - [🔐 Security](#security)
 - [💠 Blockchain](#blockchain)
 - [😎 Self Appreciation](#self)
+- [:star: Other Lists Like This List](#otherlists)
 
 ### Productivity
 Can't stay silent doing nothing? A lot of things / managements to do?
@@ -355,3 +356,10 @@ built page for your profile with just some clicks. Most of it are free.
 | Site / App | Description |
 |---|---|
 | [futureme](https://www.futureme.org) | Write a message to your future self |
+
+[⬆️ Back to Categories](#categories)
+
+### OtherLists
+- [Shawn Wang's Spark Joy](https://github.com/sw-yx/spark-joy)
+
+[⬆️ Back to Categories](#categories)
